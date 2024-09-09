@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-28T04:15:05.140Z,-21.9342,-70.3404,54,6.1,mww,111,33,0.556,1,us,us6000i636,2022-07-29T16:21:02.772Z,"22 km NW of Tocopilla, Chile",earthquake,6,1.9,0.036,73,reviewed,us,us
+2022-07-27T18:58:57.621Z,-22.196,-68.4984,96.78,6.2,mww,105,31,0.796,0.93,us,us6000i5zi,2022-07-28T19:05:05.158Z,"52 km ENE of Calama, Chile",earthquake,6.3,3.5,0.037,69,reviewed,us,us
+2022-07-27T00:43:24.382Z,17.5601,120.8011,10,7,mww,151,18,5.237,0.75,us,us6000i5rd,2022-07-31T18:56:38.133Z,"13 km SE of Dolores, Philippines",earthquake,5,1.6,0.044,50,reviewed,us,us
+2022-07-23T16:07:48.157Z,26.9092,55.2149,10,5.4,mww,91,54,2.149,0.83,us,us7000hszk,2022-07-25T22:47:44.818Z,"51 km NE of Bandar-e Lengeh, Iran",earthquake,8.5,1.9,0.098,10,reviewed,us,us
+2022-07-15T19:37:20.906Z,-44.5986,-79.7623,10,6.4,mww,114,64,5.663,0.89,us,us6000i2v0,2022-07-18T18:24:22.040Z,"Off the coast of Aisen, Chile",earthquake,8.9,1.8,0.05,38,reviewed,us,us
+2022-07-12T19:16:59.226Z,-22.6455,-114.2227,10,6.8,mww,146,32,6.292,0.85,us,us6000i1wg,2022-07-13T21:20:22.126Z,"Easter Island region",earthquake,9.9,1.8,0.04,59,reviewed,us,us
+2022-07-12T07:24:58.285Z,60.9805,-150.9365,51.1,4.7,ml,,,,0.72,ak,ak0228vb1a7q,2022-07-23T15:47:48.180Z,"14 km SE of Tyonek, Alaska",earthquake,,0.5,,,reviewed,ak,ak
